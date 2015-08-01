@@ -18,7 +18,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency('spree_core',   '~> 3.0.0')
-  s.add_dependency('coffee-rails', '~> 4.0.0')
   s.add_dependency('fedex',        '~> 3.6.1')
 
   s.add_development_dependency 'pry'
